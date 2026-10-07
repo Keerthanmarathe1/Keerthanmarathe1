@@ -26,18 +26,21 @@ I build practical applications using AI, Machine Learning, Python and Computer V
 
 ## 🛠️ Tech Stack
 
-**Languages**
+<div align="center">
 
-Python • Java • JavaScript • C
+### Languages
 
-**AI / ML**
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c" />
 
-OpenCV • MediaPipe • NLP • Sentence Transformers
+### AI / Machine Learning
 
-**Tools & Technologies**
+<img src="https://skillicons.dev/icons?i=opencv,tensorflow,pytorch" />
 
-Git • GitHub • PostgreSQL • VS Code
+### Tools & Technologies
 
+<img src="https://skillicons.dev/icons?i=git,github,postgres,vscode,html,css" />
+
+</div>
 ---
 
 ## 🚀 Featured Projects
