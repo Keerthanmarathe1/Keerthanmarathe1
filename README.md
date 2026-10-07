@@ -61,8 +61,13 @@ I build practical applications using AI, Machine Learning, Python and Computer V
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthanmarathe1&show_icons=true&theme=tokyonight)
+<div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=Keerthanmarathe1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthanmarathe1&theme=tokyonight&hide_border=true" />
+
+</div>
 ---
 
 ## 🤝 Connect With Me
