@@ -1,4 +1,12 @@
+<div align="center">
+
 # Hey, I'm Keerthan 👋
+
+### AI / Software Developer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=AI+%2F+Software+Developer;Python+%7C+Java+%7C+Machine+Learning;Computer+Vision+%7C+NLP;Building+things+that+are+actually+useful">
+
+</div>
 
 ### AI / Software Developer
 
