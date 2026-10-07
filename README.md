@@ -45,14 +45,17 @@ I build practical applications using AI, Machine Learning, Python and Computer V
 
 ## 🚀 Featured Projects
 
-### 👁️ EyePro
-Eye-controlled computer interaction using OpenCV, MediaPipe and PyAutoGUI.
+<div align="center">
 
-### 🤖 AI Interview Chatbot
-AI-powered interview system using NLP and semantic similarity.
+<a href="https://github.com/Keerthanmarathe1/EyePro">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthanmarathe1&repo=EyePro&theme=tokyonight" />
+</a>
 
-### 🧠 Saffron Quality Prediction
-Machine learning based system for predicting saffron quality from images.
+<a href="https://github.com/Keerthanmarathe1/Two-Wheeler-Management">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Keerthanmarathe1&repo=Two-Wheeler-Management&theme=tokyonight" />
+</a>
+
+</div>
 
 ---
 
