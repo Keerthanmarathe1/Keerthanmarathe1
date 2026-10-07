@@ -1,16 +1,56 @@
-## Hi there 👋
+# Hey, I'm Keerthan 👋
 
-<!--
-**Keerthanmarathe1/Keerthanmarathe1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI / Software Developer
 
-Here are some ideas to get you started:
+I build practical applications using AI, Machine Learning, Python and Computer Vision.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Software Developer
+- 🤖 Interested in AI & Machine Learning
+- 👁️ Exploring Computer Vision & NLP
+- 🐍 Python Developer
+- 📍 Bangalore, India
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+Python • Java • JavaScript • C
+
+**AI / ML**
+
+OpenCV • MediaPipe • NLP • Sentence Transformers
+
+**Tools & Technologies**
+
+Git • GitHub • PostgreSQL • VS Code
+
+---
+
+## 🚀 Featured Projects
+
+### 👁️ EyePro
+Eye-controlled computer interaction using OpenCV, MediaPipe and PyAutoGUI.
+
+### 🤖 AI Interview Chatbot
+AI-powered interview system using NLP and semantic similarity.
+
+### 🧠 Saffron Quality Prediction
+Machine learning based system for predicting saffron quality from images.
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthanmarathe1&show_icons=true&theme=tokyonight)
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](YOUR_LINKEDIN_URL)
